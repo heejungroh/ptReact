@@ -1,0 +1,19 @@
+.header {
+  margin-bottom: 200px;
+}
+
+.nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px;
+  z-index: 1;
+}
+
+.editors {
+  border: 1px solid black;
+  height: 100px;
+}
+
+.shopInfo {
+  text-align: center;
+}
